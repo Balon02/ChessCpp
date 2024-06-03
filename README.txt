@@ -1,0 +1,1 @@
+Tutaj pojawi się projekt szachów w c++ :)
